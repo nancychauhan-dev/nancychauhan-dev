@@ -1,16 +1,27 @@
-## Hi there 👋
+Hi, I'm Nancy Chauhan
 
-<!--
-**nancychauhan-dev/nancychauhan-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend Developer | B.Tech CSE | Practicing Data Structures & Algorithms and Learning Full-Stack Development for Software Development Engineer Roles
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+About Me  
+- Passionate about building user-friendly and responsive web applications.  
+- Currently sharpening my problem-solving skills through DSA practice.  
+- Expanding my knowledge into backend technologies to become a proficient full-stack developer.  
+- Actively seeking internship and job opportunities as a Software Development Engineer.
+
+
+Skills  
+- Frontend: HTML, CSS, JavaScript, React.js  
+- Backend: Node.js, Express (learning)  
+- Databases: MongoDB (learning)  
+- Tools: Git, GitHub, VS Code
+
+
+Connect With Me  
+- [LinkedIn](https://linkedin.com/in/your-linkedin)  
+- [Portfolio](https://yourportfolio.com)  
+- [Email](mailto:nancychauhan0212@gmail.com)
+
+
+
+
