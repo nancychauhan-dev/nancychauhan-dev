@@ -18,10 +18,6 @@ Skills
 
 
 Connect With Me  
-- [LinkedIn](https://linkedin.com/in/your-linkedin)  
+- [LinkedIn](www.linkedin.com/in/nancychauhan12)  
 - [Portfolio](https://yourportfolio.com)  
 - [Email](mailto:nancychauhan0212@gmail.com)
-
-
-
-
